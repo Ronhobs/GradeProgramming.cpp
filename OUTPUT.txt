@@ -1,0 +1,23 @@
+Grade Calculator for Computer Programming Using C++
+
+The weight of each deliverable on their final grade
+
+         Programming Assignments:15%
+         Chapter Tests:50%
+        Final Exam:30%
+        Class Participation:5%
+
+ What is the graded percentage (out of 100%) for Programming Assignments?50
+
+ What is the graded percentage (out of 100%) for Chapter Tests?80
+
+ What is the graded percentage (out of 100%) for Final Exam?80
+
+ What is the graded percentage (out of 100%) for Class Participation?90
+
+        7.5% in Programming Assignments
+        40% in Chapter Tests
+        24% in Final Exam
+        4.5% in Class Participation
+
+Final Grade:76%
